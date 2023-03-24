@@ -1,4 +1,3 @@
-#segunda forma
 import pathlib
 import os
 from humanize import naturalsize
